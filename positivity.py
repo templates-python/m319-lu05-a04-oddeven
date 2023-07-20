@@ -1,6 +1,9 @@
 def main():
-    # Write your program here and remove the line "pass"
-    pass
+    number = int(input('Give a number:\n'))
+    if number % 2 == 0:
+        print(f'Number {number} is even')
+    else:
+        print(f'Number {number} is odd')
 
 
 if __name__ == '__main__':
