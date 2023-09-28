@@ -1,4 +1,4 @@
-from positivity import main
+from o import main
 
 
 def test_even(capsys, monkeypatch):
