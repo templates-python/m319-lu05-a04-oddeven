@@ -1,4 +1,4 @@
-from o import main
+from oddeven import main
 
 
 def test_even(capsys, monkeypatch):
