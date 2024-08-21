@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ungerade",
+    "function": "Ungerade",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "Gerade",
+    "function": "Gerade",
+    "timeout": 10,
+    "points": 1
+  }
+]
