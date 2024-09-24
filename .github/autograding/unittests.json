@@ -1,13 +1,13 @@
 [
   {
-    "name": "Ungerade",
-    "function": "Ungerade",
+    "name": "test_even",
+    "function": "test_even",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "Gerade",
-    "function": "Gerade",
+    "name": "test_odd",
+    "function": "test_odd",
     "timeout": 10,
     "points": 1
   }
